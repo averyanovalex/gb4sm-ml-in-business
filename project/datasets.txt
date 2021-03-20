@@ -1,0 +1,3 @@
+https://www.kaggle.com/blackmoon/russian-language-toxic-comments
+
+https://www.kaggle.com/alexandersemiletov/toxic-russian-comments
